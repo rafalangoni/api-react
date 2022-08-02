@@ -10,7 +10,7 @@ const ChamadaAPI = () => {
         }
         const resultado = fetchData()
         return (
-            console.log(resultado)
+            console.log(resultado);
         )
     }
     )
